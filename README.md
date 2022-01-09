@@ -1,4 +1,6 @@
-# vue3
+# VUe 3 Project
+# Copia desafio 4 Coderhouse donde se actualiza a Vue 3, con sus respectivas dependencias actualizadas.
+
 
 ## Project setup
 ```
